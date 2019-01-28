@@ -1,0 +1,13 @@
+#demobox {
+
+height: 50px;
+width: 50%;
+background-color: docker_colour;
+font-size: 30px;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+border: 3px solid green;
+padding: 20px;
+margin-top: 20%;
+}
